@@ -1,22 +1,20 @@
 {
-  "name": "electron-quick-start",
+  "name": "Ebay inventory manager",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Inventory manager desktop app based on electron JS for Ebay sellers",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/iDz-0/Ebay-inventory-manager",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Ebay",
+    "inventory",
+    "manager",
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "iDz-0",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^19.0.2"
+    "electron": "^19.0.3"
   }
 }
